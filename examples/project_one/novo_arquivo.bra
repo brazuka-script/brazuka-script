@@ -1,0 +1,18 @@
+/* 
+ * Programa: Faz calculo matematico
+ * Desenvolvido por : Luiz Peres
+ */ 
+
+
+funcao principal()
+{
+	inteiro x;
+	inteiro y;
+	
+	escreva("Digite dois valores inteiros:\n");
+	leia("%d %d", x, y);
+	
+	inteiro soma = x + y;
+	escreva("A soma é: %d", soma );
+}
+

@@ -1,0 +1,29 @@
+#incluir <bib1.h>
+
+#incluir <bib3.h>
+
+inteiro jaca = (1 + 2);
+
+
+
+
+
+
+funcao principal()
+
+{
+	
+	inteiro soma, x;
+	
+	inteiro y;
+	
+	escreva("Digite os valores de x e y");
+	
+	leia("%d %d", &x, &y);
+	soma = x +y;
+
+	escreva("A soma e': %d", soma);
+	
+	inteiro resultado 	= (x % y) - (x / y) + 1;
+
+}
