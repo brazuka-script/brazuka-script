@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="Logo" src="./image/brazuka_logo.png" width="300px">
+    <img alt="Logo" src="./img/brazuka_logo.png" width="300px">
   </a>
 </p>
 
